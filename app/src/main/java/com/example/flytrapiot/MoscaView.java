@@ -40,14 +40,14 @@ public class MoscaView extends View {
         super(context);
         d = getResources().getDisplayMetrics().density;
 
-        pCuerpo.setColor(0xFF2A2622);
-        pAbdomen.setColor(0xFF8A5A1E);
+        pCuerpo.setColor(0xFF141210);
+        pAbdomen.setColor(0xFF4E3212);
         pBanda.setColor(0xFFE8B931);
         pBanda.setStyle(Paint.Style.STROKE);
         pBanda.setStrokeWidth(0.9f * d);
         pOjo.setColor(0xFF9E2B25);
         pAla.setColor(0x88FFFFFF);
-        pAlaBorde.setColor(0x552A2622);
+        pAlaBorde.setColor(0x66141210);
         pAlaBorde.setStyle(Paint.Style.STROKE);
         pAlaBorde.setStrokeWidth(0.6f * d);
         pAlaMancha.setColor(0x66C98A1E);
