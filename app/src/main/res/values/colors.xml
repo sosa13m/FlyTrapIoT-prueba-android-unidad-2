@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta FlyTrap: campo, follaje y trampa amarilla -->
+    <color name="bosque">#1F3D2B</color>
+    <color name="bosque_claro">#2F5A40</color>
+    <color name="trampa">#E8B931</color>
+    <color name="crema">#F4F1E8</color>
+    <color name="tierra">#5C5446</color>
+    <color name="borde">#E2DCCB</color>
+    <color name="chip">#E6EDE3</color>
+
+    <!-- Semáforo de nivel de captura -->
+    <color name="nivel_bajo">#3E8E5A</color>
+    <color name="nivel_medio">#D99A1E</color>
+    <color name="nivel_alto">#B3392F</color>
+</resources>
